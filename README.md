@@ -18,8 +18,6 @@
 
 📈 Currently sharpening my full-stack skills and diving deeper into modern development tools.
 
-⚡ When away from the keyboard, you’ll probably find me exploring the outdoors or hiking trails.
-
 ---
 
 ### 🛠️ Tech Stack
@@ -36,7 +34,7 @@
 
 **Databases & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github" alt="database-devops-tech" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,postman" alt="database-devops-tech" />
 </p>
 
 ---
