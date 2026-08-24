@@ -39,3 +39,8 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PragathiJayasinghe&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PragathiJayasinghe&layout=compact&theme=dark" height="150" alt="Most Used Languages" />
+</div>
+
