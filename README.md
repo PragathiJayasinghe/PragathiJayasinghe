@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pragathi+Jayasinghe;Frontend+%26+Web+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pragathi+Jayasinghe;Fullstack+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -33,12 +33,12 @@
 
 **Backend & Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c" alt="backend-tech" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c,fastapi" alt="backend-tech" />
 </p>
 
 **Databases & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,postman" alt="database-devops-tech" />
+  <img src="https://skillicons.dev/icons?i=postgres,aws,mongodb,mysql,docker,git,github,postman" alt="database-devops-tech" />
 </p>
 
 ---
