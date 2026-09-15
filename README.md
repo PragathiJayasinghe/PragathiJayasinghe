@@ -21,7 +21,8 @@
 🧩 Love tackling real-world problems through intuitive design and robust code.
 
 📈 Currently sharpening my full-stack skills and diving deeper into modern development tools and
-    cloud technologies.
+
+   cloud technologies.
 
 ---
 
